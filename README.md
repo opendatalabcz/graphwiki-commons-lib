@@ -1,1 +1,1 @@
-# graphwiki-commons-lib
+# Graphwiki commons-lib
